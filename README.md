@@ -5,7 +5,7 @@
 
 参考：[Pythonプログラミング入門のページ](https://utokyo-ipp.github.io)
 
-## [lecture2_tutorial]
+## [lecture2_tutorial]()
 - [lecture2-1.ipynb]() Numpyを使った計算方法
 - [lecture2-2.ipynb]() Matplotlibを用いたグラフの作成
 
