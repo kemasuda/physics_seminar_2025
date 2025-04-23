@@ -5,10 +5,13 @@
 
 参考：[Pythonプログラミング入門のページ](https://utokyo-ipp.github.io)
 
-## [lecture8_doppler](https://github.com/kemasuda/astrodata/tree/main/lecture8_doppler)
-[ペガスス座51番星（51 Peg）](https://ja.wikipedia.org/wiki/ペガスス座51番星)の視線速度データにおける惑星シグナルの解析。
-- [51Peg_rv.txt](https://github.com/kemasuda/astrodata/blob/main/lecture8_doppler/51Peg_rv.txt)：視線速度のデータ
-- [lecture8-1.ipynb](https://github.com/kemasuda/astrodata/blob/main/lecture8_doppler/lecture8-1.ipynb)：教材ノートブック（NumPyの使用例, Matplotlibによるグラフ作成）
-- [lecture8-2.ipynb](https://github.com/kemasuda/astrodata/blob/main/lecture8_doppler/lecture8-2.ipynb)：教材ノートブック（視線速度シグナルの解析）
-- [lecture8-2_sol.ipynb](https://github.com/kemasuda/astrodata/blob/main/lecture8_doppler/lecture8-2_sol.ipynb)：演習の解説
+## [lecture2_tutorial]
+- [lecture2-1.ipynb] Numpyを使った計算方法
+- [lecture2-2.ipynb] Matplotlibを用いたグラフの作成
+
+## [lecture3-1_kepler3]()
+[最小二乗法](https://ja.wikipedia.org/wiki/最小二乗法)を用いて太陽系のデータから[Keplerの第三法則](https://ja.wikipedia.org/wiki/ケプラーの法則)を確認する。
+
+## [lecture3-2_spectrum]()
+太陽に似た恒星のスペクトルをプロットし、水素原子の吸収線の波長を確認する。
 
