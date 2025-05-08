@@ -13,5 +13,5 @@
 [最小二乗法](https://ja.wikipedia.org/wiki/最小二乗法)を用いて太陽系のデータから[Keplerの第3法則](https://ja.wikipedia.org/wiki/ケプラーの法則)を確認する。
 - [lecture3_kepler3.ipynb](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture3_kepler3/lecture3_kepler3.ipynb) 授業で扱った課題ノートブック
 - solar_system.txt 太陽系惑星のデータ
-- jupiter_satellites.txt　木星の衛星のデータ
+- jupiter_satellites.txt 木星の衛星のデータ
 
