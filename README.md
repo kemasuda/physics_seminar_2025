@@ -22,4 +22,7 @@
 - [lecture4-3_spectrum.ipynb](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture4_spectrum/lecture4-3_spectrum.ipynb) 授業で扱った課題ノートブック
 - star3_spectrum.txt 恒星のスペクトルデータ
 
-
+## [lecture5_doppler](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture5_doppler)
+[ペガスス座51番星（51 Peg）](https://ja.wikipedia.org/wiki/ペガスス座51番星)の視線速度データにおける惑星シグナルの解析。
+- [lecture5-1_doppler.ipynb](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture5_doppler/lecture5-1_doppler.ipynb) 授業で扱った課題ノートブック
+- 51Peg_rv.txt 恒星の視線速度データ
