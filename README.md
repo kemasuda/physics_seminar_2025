@@ -26,3 +26,8 @@
 [ペガスス座51番星（51 Peg）](https://ja.wikipedia.org/wiki/ペガスス座51番星)の視線速度データにおける惑星シグナルの解析。
 - [lecture5-1_doppler.ipynb](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture5_doppler/lecture5-1_doppler.ipynb) 授業で扱った課題ノートブック
 - 51Peg_rv.txt 恒星の視線速度データ
+
+## [lecture6_transit](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture6_transit)
+[Kepler探査機](https://ja.wikipedia.org/wiki/ケプラー_(探査機)) により得られた恒星 KOI-2（通称[HAT-P-7](https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-7)）の光度曲線データにおけるトランジットの解析。
+- [lecture6-1_transit.ipynb](https://github.com/kemasuda/astrodata/blob/main/lecture9_transit/lecture9-1.ipynb)　授業で扱った課題ノートブック
+- [koi2.txt](https://github.com/kemasuda/astrodata/blob/main/lecture9_transit/koi2.txt) 恒星の明るさの時間変化（光度曲線）のデータ
