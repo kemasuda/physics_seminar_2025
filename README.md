@@ -1,7 +1,7 @@
 
 # 2025年度春学期「物理学セミナー」講義資料
 
-講義で使用したPythonプログラムとデータです。リンクから中身を参照できます。随時更新予定（最終更新：2025/5/22）
+講義で使用したPythonプログラムとデータです。リンクから中身を参照できます。随時更新予定（最終更新：2025/5/27）
 
 参考：[Pythonプログラミング入門のページ](https://utokyo-ipp.github.io)
 
@@ -30,4 +30,4 @@
 ## [lecture6_transit](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture6_transit)
 [Kepler探査機](https://ja.wikipedia.org/wiki/ケプラー_(探査機)) により得られた恒星 KOI-2（通称[HAT-P-7](https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-7)）の光度曲線データにおけるトランジットの解析。
 - [lecture6-1_transit.ipynb](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture6_transit/lecture6-1_transit.ipynb)　授業で扱った課題ノートブック
-- [koi2.txt](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture6_transit/koi2.txt) 恒星の明るさの時間変化（光度曲線）のデータ
+- [koi2.txt] 恒星の明るさの時間変化（光度曲線）のデータ
