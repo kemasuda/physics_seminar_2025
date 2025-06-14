@@ -30,4 +30,10 @@
 ## [lecture6_transit](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture6_transit)
 [Kepler探査機](https://ja.wikipedia.org/wiki/ケプラー_(探査機)) により得られた恒星 KOI-2（通称[HAT-P-7](https://exoplanetarchive.ipac.caltech.edu/overview/HAT-P-7)）の光度曲線データにおけるトランジットの解析。
 - [lecture6-1_transit.ipynb](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture6_transit/lecture6-1_transit.ipynb)　授業で扱った課題ノートブック
-- [koi2.txt] 恒星の明るさの時間変化（光度曲線）のデータ
+- koi2.txt 恒星の明るさの時間変化（光度曲線）のデータ
+
+## [lecture7_SgrA*](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture7_SgrA*)
+[いて座A*](https://ja.wikipedia.org/wiki/いて座A*)を公転する恒星[S2](https://ja.wikipedia.org/wiki/S2_(恒星))の軌道データを用いて、いて座A*に存在するブラックホールの質量を推定する。
+- [lecture7-1_SgrA*.ipynb](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture7_SgrA*/lecture7_SgrA*.ipynb)　授業で扱った課題ノートブック
+- S2.csv 恒星S2の軌道データ
+
