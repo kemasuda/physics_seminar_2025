@@ -1,7 +1,7 @@
 
 # 2025年度春学期「物理学セミナー」講義資料
 
-講義で使用したPythonプログラムとデータです。リンクから中身を参照できます。随時更新予定（最終更新：2025/6/14）
+講義で使用したPythonプログラムとデータです。リンクから中身を参照できます。随時更新予定（最終更新：2025/7/11）
 
 参考：[Pythonプログラミング入門のページ](https://utokyo-ipp.github.io)
 
@@ -36,4 +36,9 @@
 [いて座A*](https://ja.wikipedia.org/wiki/いて座A*)を公転する恒星[S2](https://ja.wikipedia.org/wiki/S2_(恒星))の軌道データを用いて、いて座A*に存在するブラックホールの質量を推定する。
 - [lecture7-1_SgrA*.ipynb](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture7_SgrA*/lecture7_SgrA*.ipynb)　授業で扱った課題ノートブック
 - S2.csv 恒星S2の軌道データ
+
+## [lecture8_hubble](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture8_hubble)
+[Calán/Tololo Supernova Survey](https://en.wikipedia.org/wiki/Calán/Tololo_Survey)による[Ia型超新星](https://ja.wikipedia.org/wiki/Ia型超新星)のデータを用いて[ハッブル-ルメートルの法則](https://ja.wikipedia.org/wiki/ハッブル–ルメートルの法則)を確認し、ハッブル定数を求める。
+- [lecture8_hubble.ipynb](https://github.com/kemasuda/physics_seminar_2025/blob/main/lecture8_hubble/lecture8_hubble.ipynb)　授業で扱った課題ノートブック
+- supernovae.txt Ia型超新星の赤方偏移とピーク等級のデータ
 
